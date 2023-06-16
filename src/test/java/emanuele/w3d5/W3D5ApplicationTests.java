@@ -41,6 +41,7 @@ public class W3D5ApplicationTests {
 		fs3.SetSmokeValue(10);
 		
 		
+		System.out.println(" ");
 		System.out.println("--------------------  proxy ---------------------------------");
 		System.out.println(" ");
 // creazione sistema
